@@ -1,0 +1,20 @@
+{
+    "name": "dodo-bv/universal-data-manager",
+    "description": "Manager for static data structures such as addresses, locales, etc",
+    "authors": [
+        {
+            "name": "Stef Nielandt",
+            "email": "stef.nielandt@dodo.be",
+            "homepage": "https://dodo.be",
+            "role": "Developer"
+        },
+        {
+            "name": "Rik De Lombaerde",
+            "email": "rik.delombaerde@dodo.be",
+            "homepage": "https://dodo.be",
+            "role": "Developer"
+        }
+    ],
+    "license": "proprietary"
+    
+}
